@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "course_name": "HTML"
+  },
+  {
+    "id": 2,
+    "course_name": "CSS"
+  },
+  {
+    "id": 2,
+    "course_name": "JAVASCRIPT"
+  },
+  {
+    "id": 2,
+    "course_name": "REACT JS"
+  },
+  {
+    "id": 2,
+    "course_name": "EXPRESS JS"
+  },
+  {
+    "id": 2,
+    "course_name": "MONGO DB"
+  }
+]
