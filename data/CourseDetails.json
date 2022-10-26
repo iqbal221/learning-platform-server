@@ -2,9 +2,9 @@
   {
     "id": 1,
     "title": "HTML - Hyper Text Markup Language",
-    "image": "",
+    "image": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
     "description": "HTML stands for Hyper Text Markup Language. It is used to design web pages using a markup language. HTML is an abbreviation of Hypertext and Markup language. Hypertext defines the link between the web pages. The markup language is used to define the text document within the tag which defines the structure of web pages. HTML 5 is the fifth and current version of HTML. It has improved the markup available for documents and has introduced application programming interfaces(API) and Document Object Model(DOM).",
-    "feature": [
+    "features": [
       "HTML Basics",
       "HTML Tags",
       "HTML Attributes",
@@ -19,9 +19,9 @@
   {
     "id": 2,
     "title": "CSS - Case Cading Style Sheet",
-    "image": "",
+    "image": "https://cutewallpaper.org/21/css-background-animation/CSS-background-Image-Animation-Script-guru.png",
     "description": "CSS (Cascading Style Sheets)is used to apply styles to web pages. Cascading Style Sheets are fondly referred to as CSS. It is used to make web pages presentable. The reason for using this is to simplify the process of making web pages presentable. It allows you to apply styles on web pages. More importantly, it enables you to do this independently of the HTML that makes up each web page.",
-    "feature": [
+    "features": [
       "Introduction",
       "Website Layout",
       "Design logo",
@@ -38,9 +38,9 @@
   {
     "id": 3,
     "title": "JAVASCRIPT - Programming Language",
-    "image": "",
+    "image": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
     "description": "JavaScript is the world’s most popular lightweight, interpreted compiled programming language. It is also known as scripting language for web pages. It can be used for Client-side as well as Server-side developments.",
-    "feature": [
+    "features": [
       "What is JavaScript?",
       "Printing Hello World in JavaScript",
       "Understanding Code Structure in JavaScript",
@@ -62,9 +62,9 @@
   {
     "id": 4,
     "title": "REACT JS - Javascript Library",
-    "image": "",
+    "image": "https://codetru.com/images/all/react-cards.jpg",
     "description": "",
-    "feature": [
+    "features": [
       "Introduction to JSX",
       "Basics of ES, Babel and npm",
       "Introduction to Babel",
@@ -89,9 +89,9 @@
   {
     "id": 5,
     "title": "EXPRESS JS  - Node Js Library",
-    "image": "",
+    "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211217100800/Express.js-Tutorial.png",
     "description": "Express is a popular unopinionated web framework, written in JavaScript and hosted within the Node.js runtime environment. This module explains some of the key benefits of the framework, how to set up your development environment and how to perform common web development and deployment tasks.",
-    "feature": [
+    "features": [
       "Express/Node introduction",
       "Setting up a Node (Express) development environment",
       "The Local Library website",
@@ -106,9 +106,9 @@
   {
     "id": 6,
     "title": "MONGO DB - No SQL Database",
-    "image": "",
+    "image": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/web-application-development-i1checg4.jpg",
     "description": "MongoDB, the most popular NoSQL database, is an open-source document-oriented database. The term ‘NoSQL’ means ‘non-relational’. It means that MongoDB isn’t based on the table-like relational database structure but provides an altogether different mechanism for storage and retrieval of data. This format of storage is called BSON ( similar to JSON format).",
-    "feature": [
+    "features": [
       "Document Oriented: MongoDB stores the main subject in the minimal number of documents and not by breaking it up into multiple relational structures like RDBMS. For example, it stores all the information of a computer in a single document called Computer and not in distinct relational structures like CPU, RAM, Hard disk, etc.",
       "Indexing: Without indexing, a database would have to scan every document of a collection to select those that match the query which would be inefficient. So, for efficient searching Indexing is a must and MongoDB uses it to process huge volumes of data in very less time.",
       "Scalability: MongoDB scales horizontally using sharding (partitioning data across various servers). Data is partitioned into data chunks using the shard key, and these data chunks are evenly distributed across shards that reside across many physical servers. Also, new machines can be added to a running database.",

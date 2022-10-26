@@ -13,7 +13,7 @@ app.get("/coursesCategory", (req, res) => {
   res.send(CourseCategory);
 });
 
-app.get("/courses", (req, res) => {
+app.get("/coursesCard", (req, res) => {
   res.send(CourseCard);
 });
 
