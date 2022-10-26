@@ -8,19 +8,19 @@
     "course_name": "CSS"
   },
   {
-    "id": 2,
+    "id": 3,
     "course_name": "JAVASCRIPT"
   },
   {
-    "id": 2,
+    "id": 4,
     "course_name": "REACT JS"
   },
   {
-    "id": 2,
+    "id": 5,
     "course_name": "EXPRESS JS"
   },
   {
-    "id": 2,
+    "id": 6,
     "course_name": "MONGO DB"
   }
 ]

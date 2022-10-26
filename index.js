@@ -6,9 +6,14 @@ const cors = require("cors");
 app.use(cors());
 
 const CourseCategory = require("./data/CourseCategory.json");
+const CourseCard = require("./data/CourseCard.json");
 
-app.get("/course", (req, res) => {
+app.get("/coursesCategory", (req, res) => {
   res.send(CourseCategory);
+});
+
+app.get("/courses", (req, res) => {
+  res.send(CourseCard);
 });
 
 app.listen(port, () => {
