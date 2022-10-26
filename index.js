@@ -7,6 +7,7 @@ app.use(cors());
 
 const CourseCategory = require("./data/CourseCategory.json");
 const CourseCard = require("./data/CourseCard.json");
+const CourseDetails = require("./data/CourseDetails.json");
 
 app.get("/coursesCategory", (req, res) => {
   res.send(CourseCategory);
@@ -14,6 +15,12 @@ app.get("/coursesCategory", (req, res) => {
 
 app.get("/courses", (req, res) => {
   res.send(CourseCard);
+});
+
+app.get("/coursesCategory/:id", (req, res) => {
+  const id = req.params.id;
+  const singleCourseDetails = CourseDetails.find((cd) => cd.id == id);
+  res.send(singleCourseDetails);
 });
 
 app.listen(port, () => {
